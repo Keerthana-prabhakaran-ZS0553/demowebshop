@@ -1,0 +1,14 @@
+{
+  "name": "demowebshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.13",
+    "allure-playwright": "^2.15.1"
+  }
+}

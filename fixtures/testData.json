@@ -1,0 +1,25 @@
+{
+    "username": "cypresstest2024@gmail.com",
+    "password": "Test@123",
+    "invalidPasswords": [
+        "123",
+        "password",
+        "abcdefg"
+    ],
+    "invalidEmailParts": [
+        "user..name@",
+        "user@.com",
+        "user@com"
+    ],
+    "emailErr": "Please enter a valid email address.",
+    "invalidCredErr": "The credentials provided are incorrect",
+    "booksList": [
+        "Computing and Internet",
+        "Copy of Computing and Internet EX",
+        "Fiction",
+        "Fiction EX",
+        "Health Book",
+        "Science"
+    ],
+    "productAddedNotification": "The product has been added to your shopping cart"
+}
